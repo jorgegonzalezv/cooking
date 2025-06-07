@@ -1,0 +1,9 @@
+[submodule "cooking-blog/themes/ananke"]
+	path = cooking-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "cooking-blog/themes/PaperMod"]
+	path = cooking-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "cooking-blog/themes/hugo-book"]
+	path = cooking-blog/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
